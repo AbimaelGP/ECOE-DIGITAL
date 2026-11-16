@@ -30,3 +30,8 @@ Thumbs.db
 Logs/
 # Secretos de Streamlit
 .streamlit/secrets.toml
+
+# Notas locales y registros (pueden contener contraseñas)
+pasos.txt
+Logs/
+*.log
