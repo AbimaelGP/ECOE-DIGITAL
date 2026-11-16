@@ -1,0 +1,12 @@
+streamlit
+pandas
+supabase
+python-dotenv
+reportlab>=4.0.0
+requests>=2.31.0
+PyPDF2
+python-docx
+plotly
+google-generativeai
+pyttsx3
+Pillow
